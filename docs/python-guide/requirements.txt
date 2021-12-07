@@ -1,2 +1,3 @@
 requests
 sphinx
+py>=1.10.0
